@@ -1,4 +1,4 @@
-Tip Calculator
+# Tip Calculator
 
 This code is a calculator that add tip and splits cost between people
 
